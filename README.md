@@ -1,0 +1,1 @@
+Este e um trabalho referente a disciplina LP2, que consiste em ordenar em formato unicode
